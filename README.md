@@ -11,6 +11,7 @@
 ## Languages and Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-0000EE?style=flat-square&logo=javascript&logoColor=white)
 
 <br>
 
