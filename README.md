@@ -15,4 +15,5 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
 <br>
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ekdnjs00)](https://solved.ac/ekdnjs00)
