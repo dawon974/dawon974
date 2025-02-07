@@ -18,4 +18,4 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ekdnjs00)](https://solved.ac/ekdnjs00)
 
-![mazandi profile](http://mazandi.herokuapp.com/api?ekdnjs00=ekdnjs00&theme=warm)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=ekdnjs00&theme=warm)
