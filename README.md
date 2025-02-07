@@ -5,7 +5,7 @@
 ## 🚀Link To Me🚀
 
 <a href="https://dawon-choi.tistory.com/"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>&nbsp;
-<a href="https://www.instagram.com/da_wone/>" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/_dawon_98"/></a>&nbsp;
+<a href="https://www.instagram.com/_da_wone/>" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/_dawon_98"/></a>&nbsp;
 <br>
 
 ## Languages and Tools
